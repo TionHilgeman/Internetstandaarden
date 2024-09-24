@@ -1,0 +1,53 @@
+body {
+  background-color : #182733 ;
+  color : white ;
+  h1 {
+    text-align : center ;
+    padding : 10px ;
+
+  }
+  div img {
+    width : 4em ;
+    hight : auto ;}
+
+h3 {
+  text-align : center ;
+}
+div {
+  display : flex ;
+  align-items : center ;
+}
+section {
+  color : rgb(255, 255, 255);
+  background-color : rgb(47, 47, 47);
+  text-align : center ;
+  margin : 0;
+  padding : 0.5em;
+
+}
+nav ul{ 
+  list-style-type : none ;
+  background-color : gray ;
+  padding : 1em 1em ;
+
+  padding : 0px ;
+  margin : 0px ; 
+  display : flex ;
+  align-items : center ;
+  position : sticky ;
+
+  }
+  nav a{
+    text-align : center ;
+    color : white ;
+    text-decoration : none ;
+    padding : 15px ;
+    display : block ;
+    text-align : center ;
+    }
+  nav a:hover{
+    background-color : rgb(49, 49, 49);
+
+  }
+  
+  }
